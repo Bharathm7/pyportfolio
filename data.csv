@@ -5,5 +5,5 @@ PDF Templates;A script that generates PDF templates of multiple pages given some
 Daily News Email Digest;Python script for fetching daily news, summarizing articles, and sending a digest email.;https://github.com/Bharathm7/emaildigest.git;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/Bharathm7/weatherapi.git;6.png
 Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/Bharathm7/weatherforecast.git;16.png
-Movie Recommendation system; This project showcases a movie recommendation system using Python and machine learning techniques.;https://pythonhow.com;16.png
-Online Store;A Django online store app where users can place orders and sellers can manage them.;https://pythonhow.com;20.png
+Movie Recommendation system; This project showcases a movie recommendation system using Python and machine learning techniques.;https://github.com/Bharathm7/Movie-Recommendation-system.git;16.png
+Online Store;A Django online store app where users can place orders and sellers can manage them.;https://github.com/Bharathm7/webapp_django.git;20.png
