@@ -23,7 +23,7 @@ with col2:
         st.switch_page('pages/contact.py')
 
 
-    st.image("/Users/bharathmahesh/PycharmProjects/portfolio/me.png",width=400);
+    st.image("me.png",width=400);
 st.subheader('_THIS IS_  :blue[BHARATH MAHESH] :sunglasses:', divider='rainbow')
 st.info("As an aspiring M.Tech candidate in Computer Science and Engineering at VIT Vellore, I am dedicated to "
         "harnessing technology for innovative solutions. Proficient in MERN stack, Java, and Python, "
