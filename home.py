@@ -31,3 +31,4 @@ st.info("As an aspiring M.Tech candidate in Computer Science and Engineering at 
         "technologies. My strong command of SQL and basic skills in C contribute to my versatile tech background. "
         "Eager to contribute to progressive projects, I blend technical acumen with a creative mindset to deliver "
         "impactful solutions, pushing the boundaries of what's possible in the tech realm.")
+ 
